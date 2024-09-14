@@ -15,7 +15,7 @@ To write a python program for implementation of sliding window protocol.
    
 ## PROGRAM
 
-# client
+Client
 ```
 import socket
 s=socket.socket()
@@ -36,7 +36,7 @@ while True:
             print(ack)
             i+=s
 ```
-# server
+Server
 
 ```
 import socket
@@ -50,12 +50,12 @@ while True:
 
 ## OUPUT
 
-# Client
+Client
 
 ![{FDC6E212-16C4-464F-94AA-679346DF463D}](https://github.com/user-attachments/assets/4d4ef297-0cdd-4004-8048-4b9ece8f4ddf)
 
 
-# Server 
+Server 
 
 ![{26D8463D-92D8-4EF9-95BE-1599489B1994}](https://github.com/user-attachments/assets/7d2cf2e3-226a-400a-b126-04950f4faa98)
 
